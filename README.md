@@ -1,6 +1,6 @@
 #INFORMATION
 
-It is a frontend application that connects to the backend, that is Rest
+It is a frontend application that connects to the backend, that is SerwisProject
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
